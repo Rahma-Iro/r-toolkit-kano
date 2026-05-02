@@ -1,6 +1,17 @@
 # Executive Summary
 
-<!--
-This section provides a condensed view of the entire proposal, one page long.
-It should be a comprehensive high-level overview that captures the essence of the proposal, including its goals, methods, expected outcomes, deliverables, and budget.
--->
+**Project Title:** Offline-First R Education Toolkit for Low-Resource Communities (Pilot: Kano, Nigeria)
+This project proposes the development of an open-source, offline-first R education toolkit designed for learners in 
+low-resource environments with limited internet access and computing infrastructure. While global demand for data science skills continues 
+to grow, many communities—particularly in regions such as Kano, Nigeria—face significant barriers to accessing structured R programming education 
+due to connectivity challenges, lack of localized content, and limited training capacity.
+
+To address this gap, the project will create a culturally adapted, beginner-friendly curriculum delivered in both English and Hausa, supported by 
+offline-accessible learning materials, including datasets, exercises, and instructional guides. The toolkit will also include a train-the-trainer 
+framework to enable local facilitators to independently deliver R training within their communities.
+
+The project will be piloted in Kano in collaboration with community networks such as R-Ladies Kano, with the goal of training an initial cohort of 
+learners and facilitators. All materials will be released as open-source resources to ensure global accessibility and adaptability.
+
+By focusing on offline accessibility, localization, and scalability, this project aims to strengthen inclusivity within the R ecosystem and provide a 
+replicable model for expanding data science education in underserved communities worldwide.
