@@ -1,22 +1,55 @@
 # Success
-<!--
-Projects should have a definition of done that is measurable, and a
-thorough understanding going in of what the risks are to delivery
--->
 
-## Definition of done
-<!--
-What does success look like?
--->
+This section defines what successful completion of the project looks like, how it will be measured, and how it can evolve beyond the initial funding period.
 
-## Measuring success
-<!--
-How will we know when success is achieved, what markers can we use
-along the way
--->
+---
 
-## Future work
-<!--
-How could this be extended / developed in the future by yourself
-and/or the community in general?
--->
+## Definition of Success
+
+The project will be considered successful when the following outputs are fully completed and delivered:
+
+- A fully developed beginner-level R curriculum in both English and Hausa  
+- A complete offline-first learning toolkit that can be used without internet access  
+- A facilitator training guide enabling independent replication of the program  
+- A publicly accessible open-source repository containing all materials and documentation  
+- Successful completion of a pilot program in Kano involving learners and facilitators  
+- A final evaluation report documenting outcomes, feedback, and lessons learned  
+
+Success is defined not only by the creation of materials but also by the successful training of learners and facilitators in a real-world environment.
+
+---
+
+## Measuring Success
+
+Success will be measured using both quantitative and qualitative indicators:
+
+### Quantitative Metrics
+- Number of learners trained (target: 50–100)  
+- Number of facilitators trained (target: 8–12)  
+- Completion rate of participants across training modules  
+- Number of successfully completed exercises and projects  
+
+### Qualitative Metrics
+- Participant feedback on clarity, accessibility, and usability of materials  
+- Facilitator feedback on ease of teaching and adoption  
+- Observed improvement in learner confidence and understanding of R  
+- Engagement levels during pilot sessions  
+
+Additional success indicators include the usability of the offline toolkit in environments with limited or no internet access.
+
+---
+
+## Future Work
+
+This project is designed as a scalable and expandable model that can be extended beyond the initial pilot.
+
+Future development may include:
+
+- Expansion of curriculum to intermediate and advanced R topics  
+- Adaptation of materials into additional local languages  
+- Scaling the program to other regions in Northern Nigeria and beyond  
+- Integration of the toolkit into schools, universities, and community learning centers  
+- Development of specialized R tracks (e.g., data visualization, data analysis, research applications)  
+- Growth of a wider facilitator network to support long-term sustainability  
+
+By releasing all materials as open-source resources, the project ensures that communities globally can adapt, improve, and extend the work beyond its initial scope.
