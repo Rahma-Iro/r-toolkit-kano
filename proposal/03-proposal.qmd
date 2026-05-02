@@ -1,50 +1,52 @@
-# The proposal
-<!--
-How are you going to solve the problem? Include the concrete actions you
-will take and an estimated timeline. What are likely failure modes and
-how will you recover from them?
+# Proposed Solution
+# Offline-First R Education Toolkit for Low-Resource Communities (Pilot: Kano, Nigeria)
 
-This is where the proposal should be outlined.
--->
 
-## Overview
-<!--
-At a high-level address what your proposal is and how it will address
-the problem identified. Highlight any benefits to the R Community that
-follow from solving the problem. This should be your most compelling
-section.
+### Primary Objective
+To design, develop, and pilot an open-source, offline-first R education toolkit that enables beginners in low-resource environments to effectively learn and apply R programming skills.
 
-Include concrete actions you will take and estimated timeline.
--->
+### Specific Objectives
+- Develop a structured, beginner-friendly R curriculum (6–8 modules) delivered in both English and Hausa  
+- Create a fully offline-accessible learning package, including instructional materials, exercises, and locally relevant datasets  
+- Design and implement a train-the-trainer framework to build local teaching capacity  
+- Pilot the toolkit in Kano, Nigeria, with a cohort of learners and facilitators  
+- Publish all materials as open-source resources to support global reuse and adaptation  
 
-## Detail
-<!--
-Go into more detail about the specifics of the project and how it delivers
-against the problem.
+---
 
-Depending on project type the detail section should include:
--->
+## Methodology
 
-### Minimum Viable Product
+The project will be implemented over approximately 3–4 months through five structured phases:
 
-<!--
-What is the smallest thing you can build that delivers value to your users?
--->
+### Phase 1: Needs Assessment and Curriculum Design (Weeks 1–3)
+Conduct targeted engagement with local learners, educators, and community groups to identify key learning gaps and contextual challenges. Based on these insights, define the structure, learning objectives, and content outline of a 6–8 module beginner curriculum.
 
-### Architecture
+---
 
-<!--
-What does the high-level architecture look like?
--->
+### Phase 2: Content Development and Localization (Weeks 4–8)
+Develop comprehensive learning materials, including lesson notes, slides, guided exercises, and assessments. Translate key instructional content into Hausa and incorporate culturally relevant examples to improve accessibility, comprehension, and engagement for first-time learners.
 
-### Assumptions
+---
 
-<!--
-What assumptions are you making that, if proven false, would invalidate the project?
--->
+### Phase 3: Offline Toolkit Development (Weeks 6–9)
+Design and package a fully offline learning toolkit that includes all course materials, preloaded datasets, and step-by-step installation guides for R and RStudio. Ensure the toolkit is usable in low-connectivity environments and adaptable for shared or low-device learning settings.
 
-### External dependencies
+---
 
-<!--
-What external dependencies does the project have (e.g. libraries, services, other projects, etc.)?
--->
+### Phase 4: Pilot Implementation and Testing (Weeks 10–12)
+Deploy the toolkit in a structured pilot program in Kano. Train 50–100 beginner learners and 8–12 facilitators using the train-the-trainer model. Deliver sessions, monitor engagement, and collect structured feedback on usability and learning outcomes.
+
+---
+
+### Phase 5: Evaluation, Refinement, and Open-Source Release (Weeks 12–14)
+Analyze feedback and pilot results to refine the curriculum and toolkit. Document the full methodology and facilitator guide, and publish all materials in an open-source repository to enable global access, reuse, and adaptation.
+
+---
+
+## Sustainability
+
+Sustainability is embedded in the project design through a train-the-trainer approach that equips local facilitators with the knowledge and resources required to independently deliver R training beyond the initial project period. This reduces reliance on a central team and supports long-term community-led growth.
+
+All project outputs will be released as open-source resources, ensuring they remain freely accessible and adaptable for use in other low-resource environments globally.
+
+The project will also leverage partnerships with local communities, including R-Ladies Kano, to support continued implementation, iteration, and expansion. In the longer term, the toolkit can be scaled to additional regions, extended with intermediate and advanced modules, and adapted into other local languages to further broaden its impact.
