@@ -1,31 +1,27 @@
 # Signatories
-<!--
-This section provides the ISC with a view of the support received from
-the community for a proposal. Acceptance isn't predicated on
-popularity but community acceptance is important. Willingness to
-accept outside input is also a good marker for project delivery.
 
-An optional section would be for R-Core signatories where changes to R
-are proposed.
--->
+## Project Team
 
-## Project team
-<!--
-Who are the people responsible for actually delivering the project if
-the proposal gets accepted and are already signed up and rearing to
-go? Briefly describe all participants and the skills they will bring
-to the project.
--->
+**Dr Hadiza Nasir Iro – Project Lead (R-Ladies Kano)**  
+Dr Hadiza Nasir Iro is a community leader with R-Ladies Kano, a global initiative that promotes gender diversity in the R programming community. She brings technical expertise in R and experience in organizing learning sessions and supporting beginners. She will be responsible for overall project coordination, strategic oversight, partnerships, and supporting the successful implementation of the pilot program.
+
+**Rahma Nasir – Technical Lead**  
+Rahma Nasir is the founder of *Rise with Tech*, an initiative focused on promoting digital literacy and increasing participation of girls and underserved youth in technology. She has experience organizing community outreach programs, educational workshops, and awareness campaigns on topics including technology and cybersecurity. In this project, she will lead the technical direction of the toolkit, support curriculum development, oversee content structure, and ensure the accessibility and usability of learning materials.
+
+
+**Community Facilitators (To Be Selected)**  
+A group of local facilitators will be trained as part of the project to support the pilot implementation. These individuals will assist in delivering training sessions, supporting learners, and providing feedback for improving the toolkit.
+
+---
 
 ## Contributors
-<!--
-Who are the people who have actively helped with this proposal but
-won't necessarily be on the core project team later?
--->
+
+The proposal has been shaped through informal discussions with members of local tech and education communities, including individuals involved in community outreach, student engagement, and beginner tech education. Their input has helped refine the focus on accessibility, offline learning, and language inclusion.
+
+---
 
 ## Consulted
-<!--
-Who has been given the opportunity to provide feedback on the
-proposal?
--->
 
+This proposal aligns with the needs observed within local communities in Kano, including students, beginners in technology, and participants in community-based learning initiatives. Informal feedback has been considered from individuals familiar with challenges related to internet access, language barriers, and limited exposure to R programming.
+
+Further engagement with communities such as R-Ladies Kano will continue throughout the project to ensure relevance, effectiveness, and adaptability.
