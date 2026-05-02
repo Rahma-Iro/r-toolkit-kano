@@ -1,24 +1,11 @@
----
-bibliography: references.bib
----
-
 # The Problem
 
-```{=html}
-<!--
-Outlining the issue / weak point / problem to be solved by this
-proposal. This should be a compelling section that sets the reader up
-for the next section - the proposed solution!
+Despite the global growth of data science and statistical computing, access to R programming education remains limited in many low-resource regions, particularly in Northern Nigeria. In areas such as Kano, there is a noticeable gap in awareness, accessibility, and structured learning pathways for R compared to more widely promoted programming languages such as Python.
 
-It is important to cover:
+At the university level, many students interested in technology and data-related careers are not introduced to R through formal curricula. As a result, those who wish to learn must rely on self-study, which is often hindered by several barriers, including inconsistent internet access, lack of locally relevant learning resources, and a shortage of experienced mentors within the region.
 
- - [ ] What the problem is
- - [ ] Who it affects
- - [ ] Why is it a problem
- - [ ] What will solving the problem enable (why should it be solved)
- - [ ] Brief summary of existing work and previous attempts (e.g., relevant R packages)
- - [ ] If proposing changes to R itself: letter of support from R Core member
--->
-```
+Language also presents a critical challenge. Most existing R learning materials are developed in English and assume a level of fluency that may not reflect the realities of many learners. For individuals more comfortable in Hausa, this creates an additional barrier that reduces comprehension, confidence, and engagement.
 
-An example in-text citation [@wickham2016].
+Furthermore, there is limited awareness of R among potential learners, including university students, beginners, and underrepresented groups such as women. This contributes to low participation and a smaller community of practitioners and mentors, reinforcing a cycle of underrepresentation and limited access.
+
+Without targeted interventions that address accessibility, language, and infrastructure constraints, this gap will continue to limit participation in the global R ecosystem.
